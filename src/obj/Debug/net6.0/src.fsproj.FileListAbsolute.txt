@@ -1,0 +1,16 @@
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/src
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/src.deps.json
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/src.runtimeconfig.json
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/src.dll
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/src.pdb
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/FSharp.Core.dll
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.fsproj.AssemblyReference.cache
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.AssemblyInfoInputs.cache
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.AssemblyInfo.fs
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.fsproj.CoreCompileInputs.cache
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.fsproj.CopyComplete
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.dll
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.pdb
+/home/montaglue/files/hse/functional_programming/rupee/src/obj/Debug/net6.0/src.genruntimeconfig.cache
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/FParsec.dll
+/home/montaglue/files/hse/functional_programming/rupee/src/bin/Debug/net6.0/FParsecCS.dll

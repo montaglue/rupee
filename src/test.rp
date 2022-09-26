@@ -1,0 +1,28 @@
+[
+(
+    { factorial @ n: Int -> Int = 
+        (match n 
+            {_@_: unit -> Int = 1} 
+            {_@_: unit -> Int = (factorial (sub n 1))}
+        )
+    }
+    5
+)
+
+(
+    { fib @ n : Int -> Int, Int =
+        (if (eq n 0) 
+            {_@_: unit -> Int, Int = [0 1]} 
+            {_@ rec : Int, Int -> _ : unit -> Int, Int = 
+                [(add (proj0 rec) (proj1 rec)) (proj0 rec)]
+            } (fib (sub n 1))
+        )
+    } 
+    10
+)
+
+refl: (add 2 2) ~ 4
+{_@ x: Int -> (add x x) ~ (mul 2 x) = match x 
+    {_@_ : unit -> (add x x) ~ (mul 2 x) = refl} 
+    {_@ x' : Int -> (add (S x') (S x') ~ (mul 2 (S x'))) = }}
+]
